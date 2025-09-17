@@ -31,7 +31,7 @@ const Footer = () => {
             <h4 className="text-lg font-semibold text-dark font-display">Quick Links</h4>
             <div className="space-y-3 flex flex-col gap-2">
               <Link to="/" className="block text-primary hover:text-secondary transition-colors underline">
-                Home
+                Home 1
               </Link>
               <Link to="/about" className="block text-primary hover:text-secondary transition-colors underline">
                 About Us
